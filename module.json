@@ -9,10 +9,10 @@
   "scripts": [],
   "esmodules": ["group-initiative.js"],
   "url": "https://github.com/tonifisler/foundry-group-initiative",
-  "manifest": "https://raw.githubusercontent.com/tonifisler/foundry-group-initiative/master/module.json",
-  "download": "https://github.com/tonifisler/foundry-group-initiative/archive/1.4.0.zip",
-  "changelog": "https://github.com/tonifisler/foundry-group-initiative/blob/master/CHANGELOG.md",
-  "readme": "https://github.com/tonifisler/foundry-group-initiative/blob/master/README.md",
+  "manifest": "https://raw.githubusercontent.com/strongpauly/foundry-group-initiative/strongpauly/module.json",
+  "download": "https://github.com/strongpauly/foundry-group-initiative/archive/refs/heads/strongpauly.zip",
+  "changelog": "https://github.com/strongpauly/foundry-group-initiative/blob/strongpauly/CHANGELOG.md",
+  "readme": "https://github.com/strongpauly/foundry-group-initiative/blob/strongpauly/README.md",
   "languages": [
     {
       "lang": "en",
