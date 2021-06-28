@@ -5,13 +5,12 @@
   "author": "thorni",
   "version": "1.4.0",
   "minimumCoreVersion": "0.7.3",
-  "compatibleCoreVersion": "0.8.6",
+  "compatibleCoreVersion": "0.8.8",
   "scripts": [],
   "esmodules": ["group-initiative.js"],
   "url": "https://github.com/tonifisler/foundry-group-initiative",
-  "manifest": "https://raw.githubusercontent.com/tonifisler/foundry-group-initiative/master/module.json",
-  "download": "https://github.com/tonifisler/foundry-group-initiative/archive/1.4.0.zip",
-  "changelog": "https://github.com/tonifisler/foundry-group-initiative/blob/master/CHANGELOG.md",
+  "manifest": "https://raw.githubusercontent.com/QonnorS/foundry-group-initiative/master/module.json",
+  "download": "https://github.com/QonnorS/foundry-group-initiative/archive/1.5.0.zip",
   "readme": "https://github.com/tonifisler/foundry-group-initiative/blob/master/README.md",
   "languages": [
     {
